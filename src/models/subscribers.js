@@ -1,13 +1,4 @@
-const mongoose = require('mongoose');
-
-const susbcriberSchema = new mongoose.Schema({
-    name: {
-        type: String,
-        required: true,
-    },
-    subscribedChannel:{
-        type: String,
-        required: true,
+yeda pushkar,
     },
     subscribedDate: {
         type: Date,
